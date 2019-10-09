@@ -1,7 +1,7 @@
 import UIKit
 
-class CommonViewController: UIViewController {
-    override func viewDidLoad() {
+public class CommonViewController: UIViewController {
+    override public func viewDidLoad() {
         super.viewDidLoad()
     }
 }
