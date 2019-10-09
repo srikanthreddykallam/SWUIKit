@@ -1,0 +1,19 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "ce55f29114fc98b3b975983f85867479b2469646",
+  "iOS" : [
+    {
+      "name" : "SWUIKit",
+      "hash" : "a4c7bd6430720fd54a5bc1b5691ef9f0093120c694fcebb0e329a2696d4d627b",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+    }
+  ]
+}

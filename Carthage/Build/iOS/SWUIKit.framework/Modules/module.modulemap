@@ -1,0 +1,11 @@
+framework module SWUIKit {
+  umbrella header "SWUIKit.h"
+
+  export *
+  module * { export * }
+}
+
+module SWUIKit.Swift {
+    header "SWUIKit-Swift.h"
+    requires objc
+}
